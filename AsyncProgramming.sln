@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentDictionaryDemo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumerExample", "ProducerConsumerExample\ProducerConsumerExample.csproj", "{527818EF-54AE-43C6-938A-127D8009B95F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTracer", "AsyncTracer\AsyncTracer.csproj", "{68CFDD1F-B962-49B9-B13C-0012E252281C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{527818EF-54AE-43C6-938A-127D8009B95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{527818EF-54AE-43C6-938A-127D8009B95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{527818EF-54AE-43C6-938A-127D8009B95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CFDD1F-B962-49B9-B13C-0012E252281C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CFDD1F-B962-49B9-B13C-0012E252281C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CFDD1F-B962-49B9-B13C-0012E252281C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CFDD1F-B962-49B9-B13C-0012E252281C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -94,6 +100,7 @@ Global
 		{883887A0-74EC-43EE-A320-9A2833CF516F} = {2C00DCD4-0C18-42AE-927A-6B47E949090A}
 		{A2EEEED2-FEA2-42B4-8548-620498C533D9} = {2C00DCD4-0C18-42AE-927A-6B47E949090A}
 		{527818EF-54AE-43C6-938A-127D8009B95F} = {2C00DCD4-0C18-42AE-927A-6B47E949090A}
+		{68CFDD1F-B962-49B9-B13C-0012E252281C} = {2C00DCD4-0C18-42AE-927A-6B47E949090A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B18237BB-CDEE-43B2-A768-24A48BF69C8C}
